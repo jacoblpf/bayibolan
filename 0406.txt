@@ -1,3 +1,2 @@
 tdday is 2016-04-06
-download time is 14:39,this is sencod trans,this is third changes
-this is user1;
+download time is 14:39,this is sencod trans,this is third changes,this is master's change
